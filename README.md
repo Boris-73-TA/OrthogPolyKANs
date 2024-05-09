@@ -1,6 +1,7 @@
 # OrthogPolyKANs
 Kolmogorov-Arnold Networks (KAN) using orthogonal polynomials instead of B-splines.
 - ! Based heavily on ChebyKAN implementation by SynodicMonth !
+  - https://github.com/SynodicMonth/ChebyKAN
 - There are many orthogonal polynomials: https://en.wikipedia.org/wiki/Classical_orthogonal_polynomials
   - https://mathworld.wolfram.com/OrthogonalPolynomials.html
 - Polynomials: Legendre, Chebyshev 2nd kind, Gegenbauer, Hermite, and Jacobi
