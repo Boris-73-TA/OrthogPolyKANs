@@ -6,4 +6,5 @@ Kolmogorov-Arnold Networks (KAN) using orthogonal polynomials instead of B-splin
   - https://mathworld.wolfram.com/OrthogonalPolynomials.html
 - Polynomials: Legendre, Chebyshev 2nd kind, Gegenbauer, Hermite, and Jacobi
 - Working on Bessel, Romanovski, and Fibonacci/Lucas Polynomials...
+- NB: This is a very rough implementation, and there is a lot to improve. 
 - Future Work (?): P-splines, box splines, and M-splines instead of B-splines 
