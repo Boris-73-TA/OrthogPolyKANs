@@ -1,1 +1,1 @@
-
+- Alpha and degree are layer hyperparameters for Gegenbauer. 
