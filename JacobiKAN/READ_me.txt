@@ -1,1 +1,1 @@
-
+- Alpha, beta, and degree are layer hyperparameters for Jacobi. 
